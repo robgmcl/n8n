@@ -1,0 +1,320 @@
+We're gathered here today to mourn yet
+another brilliant
+one of our companions.
+It had a compelling call to action.
+A beautiful subject line.
+Yet,
+it never reached
+its destination.
+“It deserved better!”
+Getting tired of your emails getting buried in the spam folder?
+Let's make sure your next campaign doesn't end up like this.
+Deliverability is the most overlooked part of outbound.
+You can write the perfect message,
+target the right people and time it just right
+but if it lands in spam, it's like it was never sent.
+It doesn't exist.
+And it's only gotten harder.
+In the last two years, Google and Microsoft have rolled out stricter new rules.
+Send too many emails?
+Spam.
+Use the wrong words?
+Spam.
+Include a link or an image?
+Spam.
+So is deliverability dead?
+Not even close.
+If you follow the right steps, not only will you reach the inbox, you'll outperform everybody who doesn't.
+What feels like 2025’s biggest curse might actually be your biggest edge.
+In this video, I'll show you the full 11 step methodology
+to make sure your emails never land in spam again.
+From technical setup to warm up, copywriting and sending email limits,
+this is everything you need to get it right.
+First, use multiple domains and inboxes.
+The most scalable and reliable way to run mass cold email campaigns is simple.
+Use multiple domains and inboxes.
+This is called inbox rotation.
+Because if you rely on just one domain, you're putting its reputation at risk.
+And no matter how good your campaigns are,
+some emails will be marked as spam.
+When that happens, deliverability drops, not just for cold emails,
+but everything else sent from that domain.
+Now you see with inbox rotation, you spread out the risk.
+Let's say your main domain is Salesforce.com
+This domain has strong SEO, high authority, and great sender reputation.
+To protect it,
+you'd run cold emails through satellite domains like gosalesforce.com
+or trysalesforce.com for example.
+Each domain could have several inboxes like Rafael@gosalesforce.com and Rafa.n@gosalesforce.com.
+If one inbox gets flagged, the others keep working
+and your main domain stays untouched.
+Second, buy cold email domains from high quality sources.
+If you're doing cold outreach, you need more than just one domain.
+But not all domains are equal. Where you buy them and what you buy matters.
+Buy from the wrong source and you're setting yourself up for technical pain.
+So here's what to do.
+Buy from top tier providers like Google or GoDaddy.
+Avoid Namecheap and similar low end platforms.
+Stick to clean on brand names.
+Use your company name and a simple prefix like “go”, “try”, “get” or a suffix like “HQ” or “email”.
+No numbers, no symbols, no hyphens.
+And unless it makes sense for your industry, don't stray from “.com”
+If you're in tech, domains like “.AI” or “.tech” are fine.
+Otherwise, keep it classic.
+Once bought,
+connect these domains to your Google or Outlook admin account.
+And if you want to skip the setup?
+On lemlist, you can buy secondary domains & inboxes already connected to Gmail or SMTP.
+Our pleasure ;)
+So you're ready to start sending right away.
+Third, You set up MX, DKIM, SPF, and DMARC records.
+Now, all of these acronyms sound technical, but they're not optional.
+They're the backbone of email authentication.
+Without these records, email providers have no reason to trust you.
+You could write the perfect cold email and still end up in spam.
+Because if your domain isn't authenticated,
+you look like a fake sender even when you're not.
+The good news?
+They're easy to set up.
+Just Google “How to set up a DMARC record” + your domain provider, and follow the guide.
+If you bought your domain and inboxes from the same place,
+like a Google domain with Google Workspace inboxes,
+MX, DKIM and SPF are set up automatically.
+You just need to add DMARC.
+Before you start sending, you can use this lemlist free tool to check everything's correctly in place.
+Quick breakdown if you're curious:
+So MX tells where emails for your domain should be delivered,
+DKIM verifies your messages using cryptographic signatures,
+SPF checks if the sending server is allowed to send on your domain's behalf
+and finally, DMARC ties it all together and tells providers what to do if checks fail.
+By the way, this is how I do “4” lol
+And if you'd rather skip the setup well, on lemlist,
+when you buy an inbox, all of this is already done for you.
+Same price but zero tech hassle.
+Fourth, set up a custom tracking domain.
+Open rates tell you if your emails are reaching
+the inbox or the spam folder.
+It's one of the first signals to track
+when launching a cold email campaign.
+Most platforms track opens using a small, invisible pixel inside each email.
+But here's the problem, If you're using a shared tracking domain, you're also sharing its reputation.
+Meaning your emails could get flagged
+because someone else used the same pixel for spam.
+Using public tracking domains like the ones from HubSpot
+can tank your deliverability.
+All it takes is a few bad actors
+using the same pixel, and you're in trouble.
+That's why you should always set up your own custom tracking domain.
+It lets you monitor open rates
+without being affected by other senders behavior.
+Now, depending on the sales engagement platform you’re using, the process can differ.
+Here's how to do it in lemlist, for example.
+Even easier if you purchase an inbox directly from lemlist.
+The custom tracking domain is already set up for you.
+Fifth, set up the right number of inboxes.
+There's no mystery to how many domains and inboxes you need.
+It's just math.
+If you send too many emails from too few inboxes,
+your chances of hitting spam go way up.
+And if something goes wrong with one inbox,
+you've got nowhere else to pivot.
+You end up stuck.
+So here's a simple rule of thumb.
+No more than 50 emails per inbox per day.
+If you really want to avoid all kinds of problems, get down to 30.
+2 to 3 inboxes per domain.
+3 to 4 domains per admin console or tracking account.
+To figure out what you need,
+Take your daily email target and divide it by 50.
+That’s your inbox count.
+Divide again by 100,
+and you've got your domain count.
+Always build in some breathing room.
+Aim for 20% more than your minimum.
+That extra capacity gives you flexibility to pause
+or swap out inboxes if needed without stopping your outreach.
+So if you plan to send 200 emails per day,
+don't stop at 4 inboxes on 2 domains.
+Set up 5 inboxes.
+Maybe even 6.
+It's a small step that keeps everything running smoothly.
+Sixth, warm up your inboxes.
+Just set up a new domain? 
+Hold on!
+Before sending anything, you have to warm up your inbox.
+Before sending anything, you have to warm up your inbox.
+If you send too many cold emails from a fresh domain,
+email providers flag you a suspicious.
+You’re unknown.
+Your volume is high.
+Ew...you look like spam.
+The result?
+Your emails skip the inbox land in spam from day one.
+Inbox warming helps build a solid reputation gradually.
+Start small. Five emails per day on one and increase
+by five each day until you hit 50 per day.
+Stick to a three week warm up.
+When we extended our warm up from two weeks to three,
+open rates jumped 30%.
+With lemlist, It's all automated through lemwarm.
+It sends emails from your new domain to verified inboxes,
+builds engagements, and increases volume over time, safely.
+So don't rush.
+Go and make yourself a nice warm cup of coffee.
+Take a break, your email’s warming up.
+Once your campaign starts, don't turn warming off.
+Keep it running. Just dial it down to 10 to 15
+warm up emails per day.
+Why?
+Because if you send 50 cold emails a day and get zero
+replies, providers will take notice and not in a good way.
+But if replies come in steadily, you're good.
+Seventh, nail your copywriting.
+Great deliverability starts with technical setup,
+but copy is what gets people to open and reply.
+You can have the best domain, warmed inbox, perfect DNS records,
+but if your email sounds generic or irrelevant, you will not get results.
+We've sent emails from fresh inboxes
+with no warm up and still hit 70% open rate
+because the message was tailored, personal, and worth opening.
+Write like a human.
+Use a compelling offer,
+three personalized lines and a clear, easy to answer call to action.
+Certain words instantly raise red flags for spam filters.
+Mention things like Jesus,
+Bitcoin, or Viagra and you're asking for trouble.
+Always review subject lines and email content to avoid common spam trigger terms. 
+On lemlist,
+there's a built in spam checker for every email you write.
+If your score goes above five, your email is likely to be flagged as spam.
+Additionally, send from someone who's known and trusted.
+Start with a person in your company who has the strongest online presence.
+If not possible, send from the founder.
+If not the founder.
+Choose a public facing role like the CMO or VP of sales.
+And if all else fails...
+use a female sender name.
+Listen,
+It's improved response rates more often than not.
+It's just a fact.
+Pro tips. Want to boost open rates?
+Use personalized subject lines for each prospect.
+They increase opens by 32%.
+Eighth, do not use images or links in cold emails.
+cold emails work best when they look like
+something you'd send to a colleague.
+Simple, plain text, straight to the point.
+Images and links send the opposite signal.
+Images often get blocked by email clients.
+Links are red flags for spam filters.
+Add either, and you're more likely to get flagged
+or blocked before your message is even seen.
+Stick to plain text.
+It keeps your email clean, simple, and focused
+so the content has to do the work.
+No images, no links, no distractions.
+Now, about Unsubscribes.
+Some places, like Europe or California
+require an “opt out” option in cold emails.
+But unsubscribe links come with a trade off...
+they’re links.
+So, bad for deliverability.
+They look automated
+and they will tell filters you're running a bulk sequence.
+Instead, try this.
+Use a line like:
+“If this isn't relevant, just let me know.” It lets people opt out
+without clicking and keeps your email looking personal.
+Remember, you only get a few seconds to stand out in the inbox.
+Make every word counts.
+And to make sure your prospect sees your message,
+because that's what matters the most at the end of the day, go multichannel.
+With LinkedIn, you’re sure your email gets delivered.
+Ninth, use AI to personalize and write every message as a different one.
+The easiest way to land in spam
+is to send the same cold email over and over again.
+Email providers are built to detect patterns
+and they do not like identical ones.
+If your messages all look the same, they'll get flagged as mass outreach.
+Even if your offer is solid.
+Even if your setup is perfect.
+Axed.
+You'll still end up in the promotions tab,
+or worse, in the dreaded spam folder.
+AI solves this fast.
+Use it to rewrite each message with a slight variation.
+Different intros, different phrasing, even different sentence structures.
+And make sure every email has at least one
+personalized line that proves it was written for that lead.
+At scale, this would take hours by hand.
+With AI, it takes literally seconds and it makes every message
+feel like a one off, not part of a sequence.
+Let me show you how it works.
+You click here.
+You add a prompt.
+Let's say we want to personalize the icebreaker based on the job title.
+Click on generate.
+And, we're done!
+Because the truth is inboxes don't block cold emails.
+They block lazy ones.
+Tenth, send only to valid email addresses.
+Before sending any cold email campaign.
+there's one non-negotiable step.
+Clean your list.
+Sending emails to invalid addresses leads to bounces
+and bounces damage your domain’s reputation—fast.
+Even a few can hurt your deliverability across the board.
+If your bounce rate hits 5%, stop your campaign immediately
+and recheck every email.
+Use tools like ZeroBounce or Bouncer to clean your lists.
+ZeroBounce is the most reliable and the most expensive.
+Bouncer works well and cost less, so you have options.
+On lemlist, you get verified emails already checked by both top providers,
+so you can skip the cleanup step entirely.
+Also, avoid “catch all” domains.
+These accept all incoming mail.
+So they don't confirm if an address actually exists.
+Which means you're guessing and risking bounces.
+Keep your bounce rates under 2% to stay safe.
+Between 2 and 5%,
+that's your warning, something's up.
+An over 5%, stop everything ASAP and fix your list.
+Last but most definitely not least,
+eleventh, make sure your message actually lands with follow ups and multi-channel.
+Sometimes your cold email didn't get ignored because it's bad.
+It gets ignored because it's buried.
+Your prospect might get 100+ emails a day,
+Even if yours is well-written, personalized, and relevant,
+they might just miss it or open it,
+mean to reply and forget.
+It happens.
+If you stop after one email, you're not giving yourself a real chance.
+So, follow up.
+Most replies don't come from the first email,
+they come from the second, third, or fourth.
+And don't stop at email, reach out on LinkedIn.
+If you have their number, pick up the phone.
+When your message shows up in more than one place, it's harder to ignore.
+Sometimes, it's not about changing what you say,
+it's about making sure they actually see it.
+Now that you've got everything you need
+to master cold email deliverability, the simplest way to know
+if things are working is to check your open rates.
+If it's below 40%, then you've got deliverability issues.
+Unsure?
+Use this free tool to find out.
+And if you apply the 11 steps we covered.
+You're open rate should never drop below 60%.
+So let's recap.
+Deliverability is a lot of things.
+You have a technical setup.
+You need an email warm up.
+You have to optimize your copywriting, with AI to gain time.
+You send only to verified email addresses.
+And finally you send a limited number of emails
+per sending emails using inbox rotation.
+If you're serious about outbound, you already know where to go.
+and if you want to see how to write
+AI powered call emails that not only get opened,
+but also get positive replies, then check out this video right here.
+Peace :)
